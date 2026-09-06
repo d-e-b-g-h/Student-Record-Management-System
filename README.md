@@ -1033,39 +1033,6 @@ Student objects were created successfully.
 
 Updated records could also be saved back into the JSON file.
 
-# Recommended Screenshots
-
-A `screenshots` folder can be created to store project screenshots.
-
-Recommended structure:
-
-screenshots/
-├── project_structure.png
-├── display_students.png
-├── search_by_id.png
-├── search_by_name.png
-├── search_by_department.png
-├── search_by_average.png
-├── add_student.png
-├── update_marks.png
-├── remove_student.png
-├── save_records.png
-├── csv_execution.png
-└── json_execution.png
-```
-
-Screenshots 
-
-
-
-<img width="340" height="339" alt="image" src="https://github.com/user-attachments/assets/45523d53-dc99-457d-b948-17e5910a46da" />
-
-
-
-
-
-
-
 # Learning Outcome
 
 Through this project, I gained practical experience in developing a complete Python application using Object-Oriented Programming.
@@ -1143,6 +1110,8 @@ The program successfully supports:
 The project was tested using multiple student records and all three supported file formats.
 
 Overall, this project provided practical experience in building a structured Python application and improved my understanding of Object-Oriented Programming, file handling, modular programming, command-line arguments, and basic searching techniques.
+
+Necessary Screenshots are in the attached folder for reference 
 
 # Author
 

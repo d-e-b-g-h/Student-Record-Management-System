@@ -1,4 +1,4 @@
-# ...Student Record Management and Search System...
+# Student Record Management and Search System
 
 A Python-based Student Record Management and Search System developed using Object-Oriented Programming, modular programming, file handling, command-line arguments, and basic searching techniques.
 

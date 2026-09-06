@@ -1,0 +1,5 @@
+101, Debmalya Ghosh, Computer Science, 5, 78.0, 82.0, 69.0
+102, Priya Das, Computer Science, 5, 91.0, 87.0, 94.0
+103, Bazilur Rahman, Information Technology, 5, 65.0, 71.0, 68.0
+104, Sneha Roy, Electronics, 5, 85.0, 79.0, 88.0
+105, Srijala Guha, Computer Science, 7, 78.0, 87.0, 38.0

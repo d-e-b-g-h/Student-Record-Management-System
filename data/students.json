@@ -1,0 +1,46 @@
+[
+    {
+        "student_id": 101,
+        "name": "Debmalya Ghosh",
+        "department": "Computer Science",
+        "semester": 5,
+        "marks": {
+            "subject1": 78,
+            "subject2": 82,
+            "subject3": 69
+        }
+    },
+    {
+        "student_id": 102,
+        "name": "Priya Das",
+        "department": "Computer Science",
+        "semester": 5,
+        "marks": {
+            "subject1": 91,
+            "subject2": 87,
+            "subject3": 94
+        }
+    },
+    {
+        "student_id": 104,
+        "name": "Sneha Roy",
+        "department": "Electronics",
+        "semester": 5,
+        "marks": {
+            "subject1": 85,
+            "subject2": 79,
+            "subject3": 88
+        }
+    },
+    {
+        "student_id": 105,
+        "name": "Sudip Dolui",
+        "department": "Computer Science",
+        "semester": 5,
+        "marks": {
+            "subject1": 35,
+            "subject2": 72,
+            "subject3": 60
+        }
+    }
+]
